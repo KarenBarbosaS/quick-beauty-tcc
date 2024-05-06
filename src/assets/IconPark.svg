@@ -1,0 +1,18 @@
+<svg width="34" height="33" viewBox="0 0 34 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-park-solid:local">
+<g id="Mask group">
+<mask id="mask0_128_1106" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="34" height="32">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M6.98275 22.5204C4.41859 23.2671 2.83334 24.2983 2.83334 25.4375C2.83334 27.7159 9.17575 29.5625 17 29.5625C24.8243 29.5625 31.1667 27.7159 31.1667 25.4375C31.1667 24.2983 29.5807 23.2671 27.0173 22.5204" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M17 24.0625C17 24.0625 26.2083 18.2215 26.2083 11.4689C26.2083 6.65362 22.0858 2.75 17 2.75C11.9142 2.75 7.79167 6.65362 7.79167 11.4689C7.79167 18.2215 17 24.0625 17 24.0625Z" fill="white" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+<path id="Vector_3" d="M17 15.125C17.9393 15.125 18.8401 14.7628 19.5043 14.1182C20.1685 13.4735 20.5417 12.5992 20.5417 11.6875C20.5417 10.7758 20.1685 9.90148 19.5043 9.25682C18.8401 8.61216 17.9393 8.25 17 8.25C16.0607 8.25 15.1599 8.61216 14.4957 9.25682C13.8315 9.90148 13.4583 10.7758 13.4583 11.6875C13.4583 12.5992 13.8315 13.4735 14.4957 14.1182C15.1599 14.7628 16.0607 15.125 17 15.125Z" fill="black" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_128_1106)">
+<path id="Vector_4" d="M0 0H34V33H0V0Z" fill="#96C486"/>
+</g>
+</g>
+</g>
+</svg>
